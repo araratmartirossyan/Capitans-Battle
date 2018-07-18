@@ -15,7 +15,6 @@ git clone https://github.com/myfailemtions/Capitans-Battle.git
 
 ```
 npm or yarn install
-
 ```
 
 Запустить сервер:
